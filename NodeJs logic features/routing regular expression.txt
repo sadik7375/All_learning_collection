@@ -1,0 +1,5 @@
+/^\/+|\/+$/g   this regular expression help to prevent / and / after before route url
+
+example:http://localhost:3000/about/....  target show about jsut 
+
+ref:sumit nodejs project
